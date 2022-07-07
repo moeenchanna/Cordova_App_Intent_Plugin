@@ -1,0 +1,17 @@
+{
+  "name": "info.paysyslabs.plugins.intent",
+  "version": "1.0.0",
+  "description": "This plugin will use for intent native android",
+  "cordova": {
+    "id": "info.paysyslabs.plugins.intent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Moeen Channa",
+  "license": "ISC"
+}
